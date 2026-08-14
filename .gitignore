@@ -1,0 +1,11 @@
+/.env
+/node_modules
+/__pycache__
+/.venv
+/dist
+/build
+/coverage
+/out
+/.next
+/.DS_Store
+/.vercel

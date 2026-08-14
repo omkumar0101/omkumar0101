@@ -2,6 +2,8 @@
 
 > Full-stack developer specializing in **Web3**, **AI**, and **modern front-end engineering**. I build production-ready apps with TypeScript, React, and Next.js.
 
+Repository: https://github.com/omarcarter/omarcarter
+
 ## About Me
 
 I'm a focused software engineer with a strong interest in the intersection of **blockchain** and **artificial intelligence**. I design and ship complete products — from DeFi dashboards and token analytics to AI interfaces and interactive browser games.
@@ -26,7 +28,7 @@ Instead of a giant table here, check out the curated dashboard for categorized r
 ---
 
 <div align="center">
-  <a href="https://github.com/omarcarter">
+  <a href="https://github.com/omarcarter/omarcarter">
     <img src="https://img.shields.io/badge/GitHub-omarcarter-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
